@@ -1,0 +1,23 @@
+{
+  "name": "OSOL",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yhyancy/OSOL-V18.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yhyancy/OSOL-V18/issues"
+  },
+  "homepage": "https://github.com/yhyancy/OSOL-V18#readme",
+  "dependencies": {
+    "jquery": "^3.4.1"
+  }
+}
